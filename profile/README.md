@@ -21,7 +21,7 @@ Josh is one of the main developers, having thought of the idea together with Lia
 He's been playing Minecraft ever since it released, on all kinds of different devices, including Xbox 360 and Mobile.
 
 ## Liam
-Hello, my name is Liam and let me explain my job here at RubyDevelopment. I am the organiser of this, I directly work within the Management Team of RubyDevelopment and make sure that tasks are being completed as well as working on the RubyClient Discord bot. I also assist with the coding of the RubyClient application itself however it is my main expertise. 
+Hello, my name is Liam and let me explain my job here at RubyDevelopment. I am the organiser of this, I directly work within the Management Team of RubyDevelopment and make sure that tasks are being completed as well as working on the RubyClient Discord bot. My main job within this organisation is the development of the Ruby Client application.
 My knowledge regarding Minecraft is about 8 years old, I have been playing this game around half the time I have walked this earth, I have been coding for almost the past 3 years and is what I enjoy the most out of this game, as I am able to make things based around this game.
 
 ## Wiggels
