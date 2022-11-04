@@ -8,7 +8,7 @@ In particular, the PvP aspect of the game. Thats what this organization is about
 
 
 ## What is your Client about?
-Our client is primarily based on the popular Minecraft Multiplayer server, (https://jartexnetwork.com)[JartexNetwork].
+Our client is primarily based on the popular Minecraft Multiplayer server, [JartexNetwork](https://jartexnetwork.com).
 There are barely any Clients that provide a good experience for cracked users. And, above all, provide free items and loot!
 Our client has free rewards you can win by doing various tasks, such as play for a certain amount of time.
 
