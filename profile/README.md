@@ -28,5 +28,5 @@ Hello, my name is Liam. Let me explain my job here at RubyDevelopment. I am the 
 My knowledge regarding Minecraft is about 8 years old, I have been playing this game around half the time I have walked this earth, I have been coding for almost the past 3 years and is what I enjoy the most out of this game, as I am able to make things based around this game.
 
 ## Wiggels
-Wiggels is the teams designer, working on all the graphical aspects, and doing a little bit of developing on the side.
-Write the rest here :)
+Hello, my name is Gokul, also known as Wiggels. I am RubyDevelopments co-organiser of this organization formed by Liam. I am overseeing all of the general aspects of RubyClient directly working within the Management Team. I will be focusing on designs (graphical aspects), overseeing the RubyClient Discord bot, overseeing the RubyClient website, and so on.
+Regarding Minecraft, I have been playing this paticular game for around 8+ years. Minecraft was an amazing game that helped me waste my time because why not? Everyone needs some fun in their life. I have experience in working with Html, Javascript, CSS, C#, Binary Coding, Java, Python, and a few others.
